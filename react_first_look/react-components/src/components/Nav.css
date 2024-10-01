@@ -1,0 +1,11 @@
+.wholeNav {
+  display: flex;
+  color: aquamarine;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.navImg {
+  background-color: violet;
+}
