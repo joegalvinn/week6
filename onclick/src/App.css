@@ -1,0 +1,15 @@
+/* @import url("https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css"); */
+
+.buttonHello {
+  color: red;
+}
+
+.section1 {
+  text-align: center;
+  justify-content: center;
+  background-color: crimson;
+}
+
+.buttonHello:hover {
+  background-color: rgb(116, 8, 29);
+}
