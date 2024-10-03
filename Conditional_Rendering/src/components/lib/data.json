@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "flavour": "Chocolate Chip",
+    "price": "£3.00",
+    "description": "Creamy chocolate swirl with chunky dark chocolate chips."
+  },
+  {
+    "id": 2,
+    "flavour": "Vanilla",
+    "price": "£2.50",
+    "description": "Classic vanilla flavor with a smooth texture."
+  },
+  {
+    "id": 3,
+    "flavour": "Strawberry",
+    "price": "£3.00",
+    "description": "Fresh strawberry puree blended into creamy ice cream."
+  },
+  {
+    "id": 4,
+    "flavour": "Mint Chocolate Chip",
+    "price": "£3.50",
+    "description": "Refreshing mint ice cream with dark chocolate flakes."
+  }
+]
